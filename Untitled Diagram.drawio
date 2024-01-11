@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-11T21:11:15.721Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="yPTKStpp-eoLWXor-V79" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-11T22:21:18.334Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="qabkBAcp0WRxwZ9CRAc0" version="22.1.18" type="github">
   <diagram name="Page-1" id="-rmKJFOpTzaGtTQotmZY">
     <mxGraphModel dx="1050" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="2gLgw7AjvigkoS9bFjpN-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2gLgw7AjvigkoS9bFjpN-1" target="2gLgw7AjvigkoS9bFjpN-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2gLgw7AjvigkoS9bFjpN-1" value="CAPA DE SERVICIOS" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="2gLgw7AjvigkoS9bFjpN-1" value="CAPA DE SERVICIOS" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="40" y="40" width="800" height="130" as="geometry" />
         </mxCell>
         <mxCell id="2gLgw7AjvigkoS9bFjpN-7" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;WebApi&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ Método1: Type&lt;br&gt;+ Método2: Type&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
@@ -26,10 +26,10 @@
             <mxPoint x="-24" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2gLgw7AjvigkoS9bFjpN-32" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="2gLgw7AjvigkoS9bFjpN-32" value="" style="group;fontStyle=1" vertex="1" connectable="0" parent="1">
           <mxGeometry x="40" y="592" width="800" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="2gLgw7AjvigkoS9bFjpN-4" value="CAPA DE INFRAESTRUCTURA&lt;br&gt;DE DATOS" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="2gLgw7AjvigkoS9bFjpN-32">
+        <mxCell id="2gLgw7AjvigkoS9bFjpN-4" value="CAPA DE INFRAESTRUCTURA&lt;br&gt;DE DATOS" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="2gLgw7AjvigkoS9bFjpN-32">
           <mxGeometry y="-10" width="800" height="120" as="geometry" />
         </mxCell>
         <mxCell id="2gLgw7AjvigkoS9bFjpN-26" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Data&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ Método1: Type&lt;br&gt;+ Método2: Type&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="2gLgw7AjvigkoS9bFjpN-32">
@@ -56,10 +56,10 @@
             <mxPoint x="-24" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2gLgw7AjvigkoS9bFjpN-33" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="2gLgw7AjvigkoS9bFjpN-33" value="" style="group;fontStyle=1" vertex="1" connectable="0" parent="1">
           <mxGeometry x="70" y="410" width="770" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="2gLgw7AjvigkoS9bFjpN-3" value="CAPA DE DOMINIO" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="2gLgw7AjvigkoS9bFjpN-33">
+        <mxCell id="2gLgw7AjvigkoS9bFjpN-3" value="CAPA DE DOMINIO" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="2gLgw7AjvigkoS9bFjpN-33">
           <mxGeometry width="770" height="130" as="geometry" />
         </mxCell>
         <mxCell id="2gLgw7AjvigkoS9bFjpN-20" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Entity&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ Método1: Type&lt;br&gt;+ Método2: Type&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="2gLgw7AjvigkoS9bFjpN-33">
@@ -89,7 +89,7 @@
         <mxCell id="2gLgw7AjvigkoS9bFjpN-34" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="40" y="220" width="800" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="2gLgw7AjvigkoS9bFjpN-2" value="CAPA DE APLICACIÓN" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="2gLgw7AjvigkoS9bFjpN-34">
+        <mxCell id="2gLgw7AjvigkoS9bFjpN-2" value="CAPA DE APLICACIÓN" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" vertex="1" parent="2gLgw7AjvigkoS9bFjpN-34">
           <mxGeometry width="800" height="140" as="geometry" />
         </mxCell>
         <mxCell id="2gLgw7AjvigkoS9bFjpN-13" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;DTO&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ Método1: Type&lt;br&gt;+ Método2: Type&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="2gLgw7AjvigkoS9bFjpN-34">
@@ -144,7 +144,7 @@
             <mxPoint x="-24" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2gLgw7AjvigkoS9bFjpN-42" value="CAPA TRANSVERSAL" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="2gLgw7AjvigkoS9bFjpN-42" value="CAPA TRANSVERSAL" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="860" y="40" width="220" height="660" as="geometry" />
         </mxCell>
         <mxCell id="2gLgw7AjvigkoS9bFjpN-43" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Common&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ Método1: Type&lt;br&gt;+ Método2: Type&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">

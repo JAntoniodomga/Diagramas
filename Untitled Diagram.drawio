@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-11T20:59:38.422Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="MZPgPFj5VuHoZUrfHOb0" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-11T21:00:13.583Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="mDZtW1uHXlcqkYbu-p6V" version="22.1.18" type="github">
   <diagram name="Page-1" id="-rmKJFOpTzaGtTQotmZY">
     <mxGraphModel dx="1050" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -15,9 +15,6 @@
         </mxCell>
         <mxCell id="2gLgw7AjvigkoS9bFjpN-3" value="CAPA DE DOMINIO" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="70" y="380" width="770" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="2gLgw7AjvigkoS9bFjpN-4" value="CAPA DE INFRAESTRUCTURA&lt;br&gt;DE DATOS" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="40" y="540" width="800" height="110" as="geometry" />
         </mxCell>
         <mxCell id="2gLgw7AjvigkoS9bFjpN-7" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;WebApi&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ Método1: Type&lt;br&gt;+ Método2: Type&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="180" y="60" width="180" height="90" as="geometry" />
@@ -83,24 +80,30 @@
             <mxPoint x="-24" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2gLgw7AjvigkoS9bFjpN-26" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Data&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ Método1: Type&lt;br&gt;+ Método2: Type&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="230" y="552" width="180" height="90" as="geometry" />
+        <mxCell id="2gLgw7AjvigkoS9bFjpN-32" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="40" y="559" width="800" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="2gLgw7AjvigkoS9bFjpN-4" value="CAPA DE INFRAESTRUCTURA&lt;br&gt;DE DATOS" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="2gLgw7AjvigkoS9bFjpN-32">
+          <mxGeometry y="-10" width="800" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2gLgw7AjvigkoS9bFjpN-26" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Data&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ Método1: Type&lt;br&gt;+ Método2: Type&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="2gLgw7AjvigkoS9bFjpN-32">
+          <mxGeometry x="190" y="7" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="2gLgw7AjvigkoS9bFjpN-27" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="2gLgw7AjvigkoS9bFjpN-26">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-24" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2gLgw7AjvigkoS9bFjpN-28" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Interface&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ Método1: Type&lt;br&gt;+ Método2: Type&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="430" y="552" width="180" height="90" as="geometry" />
+        <mxCell id="2gLgw7AjvigkoS9bFjpN-28" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Interface&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ Método1: Type&lt;br&gt;+ Método2: Type&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="2gLgw7AjvigkoS9bFjpN-32">
+          <mxGeometry x="390" y="7" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="2gLgw7AjvigkoS9bFjpN-29" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="2gLgw7AjvigkoS9bFjpN-28">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-24" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2gLgw7AjvigkoS9bFjpN-30" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Repository&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ Método1: Type&lt;br&gt;+ Método2: Type&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="620" y="552" width="180" height="90" as="geometry" />
+        <mxCell id="2gLgw7AjvigkoS9bFjpN-30" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Repository&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ Método1: Type&lt;br&gt;+ Método2: Type&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="2gLgw7AjvigkoS9bFjpN-32">
+          <mxGeometry x="580" y="7" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="2gLgw7AjvigkoS9bFjpN-31" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="2gLgw7AjvigkoS9bFjpN-30">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">

@@ -1,20 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2024-01-11T20:46:21.026Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="K6ZOtt4tCZu1dDsLGN6q" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-11T20:52:13.404Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="qJnqiBUkGj6k4yIcRCbE" version="22.1.18" type="github">
   <diagram name="Page-1" id="-rmKJFOpTzaGtTQotmZY">
     <mxGraphModel dx="1050" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2gLgw7AjvigkoS9bFjpN-1" value="CAPA DE SERVICIOS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="360" height="60" as="geometry" />
+        <mxCell id="2gLgw7AjvigkoS9bFjpN-1" value="CAPA DE SERVICIOS" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="600" height="130" as="geometry" />
         </mxCell>
         <mxCell id="2gLgw7AjvigkoS9bFjpN-2" value="CAPA DE APLICACIÓN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="130" width="360" height="60" as="geometry" />
+          <mxGeometry x="40" y="320" width="360" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2gLgw7AjvigkoS9bFjpN-3" value="CAPA DE DOMINIO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="220" width="360" height="60" as="geometry" />
+          <mxGeometry x="40" y="410" width="360" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2gLgw7AjvigkoS9bFjpN-4" value="CAPA DE INFRAESTRUCTURA DE DATOS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="320" width="360" height="60" as="geometry" />
+          <mxGeometry x="40" y="510" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2gLgw7AjvigkoS9bFjpN-7" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;WebApi&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ Método1: Type&lt;br&gt;+ Método2: Type&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="180" y="60" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="2gLgw7AjvigkoS9bFjpN-8" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="2gLgw7AjvigkoS9bFjpN-7">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2gLgw7AjvigkoS9bFjpN-11" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Web App&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ Método1: Type&lt;br&gt;+ Método2: Type&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="380" y="60" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="2gLgw7AjvigkoS9bFjpN-12" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="2gLgw7AjvigkoS9bFjpN-11">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
